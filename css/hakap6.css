@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+h1 {
+	font-family:Verdana;
+	border: 1px solid #999;
+	background-color:#CEE3F6;
+}
+
+td,th {
+	font-family:Verdana;
+	border: 1px solid #999;
+}
