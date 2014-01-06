@@ -9,6 +9,10 @@ table {
 	border-collapse:collapse;
 }
 
+caption {
+	text-align:left;
+}
+
 tr {
 	border: 1px solid #999;
 }
